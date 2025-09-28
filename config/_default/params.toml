@@ -27,7 +27,7 @@ defaultBackgroundImage = "/img/background.svg"
 defaultFeaturedImage = "/img/featured.svg"
 defaultSocialImage = "/img/blowfish_banner.png"
 
-highlightCurrentMenuArea = true
+highlightCurrentMenuArea = false
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
