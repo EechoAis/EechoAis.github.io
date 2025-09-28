@@ -17,7 +17,7 @@
 
 [[main]]
   name = "文章"
-  pageRef = "docs"
+  pageRef = "posts"
   weight = 10
 
 #[[main]]

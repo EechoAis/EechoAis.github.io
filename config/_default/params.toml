@@ -15,7 +15,7 @@ enableCodeCopy = true
 
 replyByEmail = false
 
-mainSections = ["docs"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -52,7 +52,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showRecent = true
   showRecentItems = 10
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = "posts"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
