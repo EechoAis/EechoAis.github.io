@@ -13,7 +13,7 @@ title = "Eecho"
 
 [params.author]
   name = "Eecho"
-  image = "/img.jpg"
+  image = "img.jpg"
   headline = "记录与分享"
   bio = "热爱技术与生活。"
   links = [
