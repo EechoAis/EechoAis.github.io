@@ -1,3 +1,4 @@
+# -- Main language (zh-cn)
 languageCode = "zh-cn"
 languageName = "简体中文"
 weight = 4
@@ -13,7 +14,7 @@ title = "Eecho"
 
 [params.author]
   name = "Eecho"
-  image = "img.jpg"
+  image = "img/avatar.jpg"
   headline = "记录与分享"
   bio = "热爱技术与生活。"
   links = [
