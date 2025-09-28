@@ -1,0 +1,15 @@
+baseURL = '/'
+languageCode = 'zh-cn'
+title = 'Blog'
+theme = 'blowfish'
+
+pagination = { pagerSize = 10 }
+summaryLength = 30
+
+defaultContentLanguage = 'zh-cn'
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
