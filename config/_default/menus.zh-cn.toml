@@ -20,24 +20,26 @@
   pageRef = "posts"
   weight = 10
 
-#[[main]]
-#  name = "Test"
-#  pageRef = "pagTest"
-#  weight = 1000
+[[main]]
+  name = "归档"
+  pageRef = "archives"
+  weight = 20
+
+[[main]]
+  name = "友链"
+  pageRef = "links"
+  weight = 30
+
+[[main]]
+  name = "关于"
+  pageRef = "about"
+  weight = 40
 
 [[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/EechoAis/EechoAis.github.io"
   weight = 200
-
-#[[main]]
-#  identifier = "mastodon"
-#  pre = "mastodon"
-#  weight = 300
-#  url = "https://masto.ai/@blowfish"
-
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
